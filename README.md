@@ -98,4 +98,4 @@ Note- The Already added notification and red button will display after clicking 
 ![Getting to Key](https://i.postimg.cc/CLJPZ8RX/Screenshot-42.jpg)
 
 ## Info
-Ping @Zoborist on Hardcover discord if you have any doubts or need help.
+Hope this web app was of help to you. Please ping @Zoborist on Hardcover discord if you have any doubts or need help.
