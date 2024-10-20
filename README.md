@@ -80,7 +80,7 @@ This application is built upon queries made by [emgoto](https://github.com/emgot
  ![Getting to API Key](https://i.postimg.cc/XJc6GJSJ/Screenshot-2024-10-20-213534.png)
  ![Getting to API Key](https://i.postimg.cc/BvTVNVh7/Screenshot-2024-10-20-200732.jpg)
 
- ## Findidng Location of the Placeholder
+ ## Finding Location of the Placeholder
 ![Getting to Key](https://i.postimg.cc/xTLp97Qf/Screenshot-2024-10-20-221515.png)
 
 ## Displaying Your Lists
